@@ -8,8 +8,11 @@ Review the change with a partner before merging it.
 
 def banner():
     print("=== SCCM4910 team greetings ===")
-    print("Hello from DSH0812")
+
 
 if __name__ == "__main__":
     banner()
     # --- ADD YOUR GREETING BELOW THIS LINE ---
+
+    # prints greeting from DSH0812
+    print("Hello from DSH0812!")
